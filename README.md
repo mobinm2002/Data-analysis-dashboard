@@ -5,6 +5,9 @@ Executive Summary: Sales Analysis Report
 ## Overview
 This report provides an in-depth analysis of the sales performance for a specified period. The analysis covers various aspects such as revenue generation, customer spending behavior, order trends, and key performance indicators (KPIs). The data insights help in strategic decision-making to enhance sales and operational efficiency.
 
+## Dashboard
+![Dashboard Screenshot](https://github.com/user-attachments/assets/68207749-0f96-4e36-a974-8e6d83058b21)
+
 ## Key Highlights
 Total Orders: 1,000
 
@@ -61,6 +64,7 @@ Customers place more orders during festive periods, impacting supply chain effic
 Product Expansion: Invest in high-performing categories like Soft Toys and Sweets, while exploring opportunities to enhance sales in underperforming categories.
 
 Targeted Marketing: Leverage festive occasions and peak months by running special promotions for high-selling periods.
+
 
 Logistics Optimization: Reduce the average delivery time further by improving supply chain efficiency, especially for cities with high order volumes.
 
